@@ -1,4 +1,4 @@
-#!/bin/bash
+#Code untuk ambil sample
 
 #download data xlsx, simpan ke folder data
 wget -P ./data https://github.com/labusiam/dataset/raw/main/weather_data.xlsx
